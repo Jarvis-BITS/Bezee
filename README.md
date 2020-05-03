@@ -1,2 +1,2 @@
 # Bezee
-An app which tracks the movement and density of people in a certain region i.e Library or Grocery Store in order to relay 
+An app which tracks the movement and density of people in a certain region i.e Library or Grocery Store
